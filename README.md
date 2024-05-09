@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on GitHub
-- 📫 How to reach me ...
+- 📫 How to reach me: jvweslrx@duck.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I hate, to wait a long time for a solution
 
